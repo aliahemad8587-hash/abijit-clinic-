@@ -1,0 +1,6 @@
+{
+  "name": "Abhijit Eye Clinic",
+  "description": "Vitreoretinal Microsurgery & Advanced Cataract Center Mumbra, Thane led by Dr. Abhijit, MS (Ophthalmology).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
